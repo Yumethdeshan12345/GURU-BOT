@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['94764186258', 'CIPHER', true],
+  ['94754837783', 'CIPHER', true], 
   [''] 
 ] //Number of owners
 
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝐶𝐼𝑃𝐻𝐸𝑅 𝑀𝑈𝑆𝐼𝐶'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.packname = '𝐶𝐼𝑃𝐻𝐸𝑅 𝑀𝑈𝑆𝐼𝐶' 
+global.author = 'CIPHERCITY' 
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/ciphermusic1?igshid=ZGUzMzM3NWJiOQ==\n' 
+global.dygp = 'https://chat.whatsapp.com/Eewve6Pky9yH39cCIw3x42'
+global.fgsc = 'https://github.com/Yumethdeshan12345' 
+global.fgyt = 'https://www.youtube.com/channel/UCKLnfOSYph-21HAX1b_gkNw'
+global.fgpyp = 'https://www.youtube.com/channel/UCKLnfOSYph-21HAX1b_gkNw' 
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
